@@ -26,6 +26,10 @@ font-weight: 600;
 cursor: pointer;
 border: 0;
 }
+.section-title{
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #131313;
 /* header styles */
 header{
   background: rgba(255, 144, 14, 0.10);
@@ -51,10 +55,7 @@ nav li a {
   color: #424242;
 
 }
-.nav-title{
-  font-size: 2.8rem;
-  font-weight: 700;
-  color: #131313;
+
 }
 /* banner styles */
 .banner-content{
